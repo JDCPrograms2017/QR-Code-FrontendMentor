@@ -51,6 +51,6 @@ I would really like to know more about how to properly size and scale the displa
 
 ## Author
 
-- Frontend Mentor - [@JDCPrograms2k17](https://www.frontendmentor.io/profile/JDCPrograms2k17)
+- Frontend Mentor - [@JDCPrograms2017](https://www.frontendmentor.io/profile/JDCPrograms2017)
 - LinkedIn - [Joshua Chadwick](https://www.linkedin.com/in/joshuadchadwick/)
 
